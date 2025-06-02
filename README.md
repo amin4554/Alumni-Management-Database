@@ -98,7 +98,7 @@ WHERE eh.start_date > ja.submission_date;
 ## 🏛️ University
 
 **SRH University of Applied Sciences Berlin**  
-**Course:** Databases and Big Data  
+**Course:** Databases 
 **Supervisor:** Prof. Dilan Ebru  
 **Date:** February 11, 2025
 
@@ -110,7 +110,3 @@ This project is intended for academic and educational use only. All data is mock
 
 ---
 
-## 📬 Contact
-
-For questions or collaboration, feel free to contact:
-- [Amin Niaziardekani](https://www.linkedin.com/in/amin-niaziardekani)

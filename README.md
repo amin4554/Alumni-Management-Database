@@ -110,3 +110,4 @@ This project is intended for academic and educational use only. All data is mock
 
 ---
 
+![Logical Design EER](https://github.com/user-attachments/assets/1775d68f-69f2-4aa5-ba88-9a8c9f57abfe)

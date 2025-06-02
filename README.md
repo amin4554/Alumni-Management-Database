@@ -20,7 +20,7 @@ The **CyberMACS Alumni System** is a comprehensive relational database project d
 - **MySQL Workbench** – ERD/EER diagram design and schema planning.
 - **Mockaroo** – Data generation for realistic testing.
 - **SQL** – Querying, data population, reporting.
-- **ChatGPT** – Used for initial research summaries and report structuring (not for implementation or code generation).
+- **ChatGPT**
 
 ---
 
